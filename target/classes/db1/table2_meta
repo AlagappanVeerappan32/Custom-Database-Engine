@@ -1,0 +1,4 @@
+table2_id/@/int/@/-1/@/true/@/table1/@/table1_id
+name/@/varchar/@/50/@/false/@/none/@/none
+address/@/varchar/@/100/@/false/@/none/@/none
+salary/@/float/@/-1/@/false/@/none/@/none

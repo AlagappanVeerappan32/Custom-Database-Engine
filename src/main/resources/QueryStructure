@@ -1,0 +1,16 @@
+create table employee_details (id int, name varchar(50), address(50), PRIMARY KEY(id));
+
+insert into student (id, name) values (1, alex);
+
+select id,name from student;
+select * from employe_list where id=4;
+select name from student where id = 1;
+select * from student;
+
+update student set name = good;
+update student set name = nice where id = 6;
+
+delete from student where id=5;
+delete from student;
+
+

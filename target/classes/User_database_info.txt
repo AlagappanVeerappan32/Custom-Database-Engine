@@ -1,0 +1,4 @@
+alex/@/db1
+rajesh/@/student
+Neal/@/employee
+naresh/@/bud
